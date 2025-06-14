@@ -26,7 +26,6 @@ Me chamo Julia Freitas, tenho 19 anos e moro em São Paulo (SP). Atualmente sou 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SASS"
@@ -109,6 +108,7 @@ Me chamo Julia Freitas, tenho 19 anos e moro em São Paulo (SP). Atualmente sou 
 
 ### 📊 Estatísticas
 
+<div align="center">
 <img 
     align="left" 
     alt="GitHub Stats" 
@@ -124,3 +124,4 @@ Me chamo Julia Freitas, tenho 19 anos e moro em São Paulo (SP). Atualmente sou 
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia1923&theme=dracula&locale=pt-br&layout=compact" 
 />
+</div>

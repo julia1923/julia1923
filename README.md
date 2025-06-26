@@ -23,7 +23,7 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
   → Provides user authentication (signup and login), allowing users to purchase games and manage their personal game library, inspired by Steam's core functionality.
 <br>
 
-- 🎨 [Image-to-Audio AI](https://github.com/julia1923/hamburgueria) – A functional fictitious burger shop website built with Vite and React.
+- 🎨 [burger place](https://github.com/julia1923/hamburgueria) – A functional fictitious burger shop website built with Vite and React.
 → Features brand presentation, product catalog, about and contact pages, and a cart with item management integrated with MockAPI for CRUD operations.
 
 
@@ -41,15 +41,21 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=julia1923&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia1923&theme=dracula&layout=compact&locale=en" 
-  />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=julia1923&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Languages" 
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia1923&theme=dracula&layout=compact&locale=en" 
+      />
+    </td>
+  </tr>
+</table>

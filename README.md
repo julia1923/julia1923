@@ -1,12 +1,11 @@
 <h1 align="center">Hi! I'm Julia 👩🏻‍💻</h1>
-<h5 align="center"><code>Full-Stack & Front-End Developer</code></h5>
+<h5 align="center"><code>Frontend & Full-Stack Developer</code></h5>
 
-My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pursuing a degree in Systems Analysis and Development at Universidade Anhembi Morumbi. I'm passionate about crafting interfaces that combine visual design, functionality, and a truly intuitive user experience. I enjoy turning ideas into meaningful solutions that make sense to people. I'm constantly seeking to learn and grow as a developer, with the goal of building a strong path in web development.
+My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pursuing a degree in Systems Analysis and Development at Universidade Anhembi Morumbi. I'm passionate about crafting interfaces that combine visual design, functionality, and a truly intuitive user experience. I'm passionate about crafting accessible, intuitive, and visually appealing user interfaces. I love transforming ideas into impactful digital experiences — always with the user in mind. I'm constantly seeking to learn and grow as a developer, with the goal of building a strong path in web development.
 
 ---
 
-### 🤖 Tech Stack
-
+### 🛠️ Languages, Frameworks & Tools
 
 <div align="center" >
     <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css,sass,react,nextjs,nodejs,express,spring,postgres,mysql,postman,git,vscode,linux,docker,figma,github,jest,vercel,bootstrap,vite,vue,cypress,aws" />
@@ -15,7 +14,7 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
 ---
 
 ## 🚀 Featured Projects
-- 🔐 [Fable Backend](https://github.com/julia1923/FableFrontend) – Backend service built with Java Spring Boot, Docker, and MySQL.
+- 🔐 [Fable Backend](https://github.com/julia1923/A3_SD) – Backend service built with Java Spring Boot, Docker, and MySQL.
 → Provides REST API with environment configuration via .env and application.properties, running with Docker Compose containers for MySQL database and DBeaver interface for database management.
 <br>
 
@@ -59,3 +58,16 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
     </td>
   </tr>
 </table>
+
+### 🤝 Let's Connect
+
+Feel free to reach out!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/julia-freitas-nascimento-629819292/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juliaf.nascimento65@gmail.com ">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</div>

@@ -47,7 +47,7 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
       <img 
         alt="GitHub Stats" 
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=julia1923&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
+          src="https://github-readme-stats.vercel.app/api?username=julia1923&show_icons=true&theme=dracula&include_all_commits=true&locale=en" 
       />
     </td>
     <td>

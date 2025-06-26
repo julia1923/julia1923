@@ -59,15 +59,15 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
   </tr>
 </table>
 
-### 🤝 Let's Connect
+---
 
-Feel free to reach out!
+### 📬 Contact Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julia-freitas-nascimento-629819292/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:juliaf.nascimento65@gmail.com ">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  <a href="mailto:juliaf.nascimento65@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>

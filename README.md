@@ -22,6 +22,7 @@ My name is Julia Freitas, and I'm based in São Paulo, Brazil. I'm currently pur
 - 🔐 [Fable Frontend](https://github.com/julia1923/FableFrontend) – A modular web app built with Vite, React, and TypeScript featuring organized components, pages, and utilities with strong typing and linting.
   → Provides user authentication (signup and login), allowing users to purchase games and manage their personal game library, inspired by Steam's core functionality.
 <br>
+
 - 🎨 [Image-to-Audio AI](https://github.com/julia1923/hamburgueria) – A functional fictitious burger shop website built with Vite and React.
 → Features brand presentation, product catalog, about and contact pages, and a cart with item management integrated with MockAPI for CRUD operations.
 
